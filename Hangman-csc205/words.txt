@@ -1,0 +1,8 @@
+﻿computer
+programming
+hangman
+science
+education
+teacher
+keyboard
+monitor
